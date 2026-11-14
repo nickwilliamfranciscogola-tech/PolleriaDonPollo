@@ -1,0 +1,12 @@
+﻿ID;Clase;Tipo
+CLS-01;Cliente;Dominio
+CLS-02;Pedido;Dominio
+CLS-03;DetallePedido;Dominio
+CLS-04;Producto;Dominio
+CLS-05;Comanda;Dominio
+CLS-06;Despacho;Dominio
+CLS-07;Pago;Dominio
+CLS-08;Comprobante;Dominio
+CLS-09;Reembolso;Dominio
+CLS-10;PasarelaBilletera;Nuevo (interfaz)
+CLS-11;SimuladorBilletera;Nuevo (pruebas)

@@ -1,0 +1,11 @@
+﻿RF;Titulo;OBJ;HU;CU;Clases;Pruebas;Estado;CR
+RF-01;Registrar pedido;OBJ-1;HU-01,HU-02;CU-01;CLS-01,CLS-02,CLS-03,CLS-04;PR-01;Base;
+RF-02;Validar disponibilidad;OBJ-1;HU-03;CU-02;CLS-03,CLS-04;PR-02;Base;
+RF-03;Modificar o cancelar pedido;OBJ-1;HU-04,HU-05;CU-03;CLS-02,CLS-03;PR-03;Base;
+RF-04;Preparar pedido y estados;OBJ-2;HU-06,HU-07;CU-04;CLS-02,CLS-05;PR-04;Base;
+RF-05;Gestionar faltante de insumos;OBJ-2;HU-08;CU-05;CLS-03,CLS-05,CLS-09;PR-05;Base;
+RF-06;Despachar y confirmar entrega;OBJ-2;HU-09,HU-10;CU-06;CLS-02,CLS-06;PR-06;Base;
+RF-07;Registrar y validar cobro;OBJ-3;HU-11,HU-12;CU-07;CLS-02,CLS-07,CLS-10;PR-07,PR-08,PR-13;Modificado;CR-001
+RF-08;Emitir comprobante;OBJ-3;HU-13,HU-16;CU-08;CLS-02,CLS-07,CLS-08;PR-09,PR-14;Modificado;CR-001
+RF-09;Anular comprobante o reembolsar;OBJ-3;HU-14;CU-09;CLS-07,CLS-08,CLS-09;PR-10;Revisado (sin cambio);CR-001
+RF-10;Cobrar con billetera digital (Yape/Plin);OBJ-3;HU-15;CU-10;CLS-02,CLS-07,CLS-10,CLS-11;PR-11,PR-12;Nuevo;CR-001
